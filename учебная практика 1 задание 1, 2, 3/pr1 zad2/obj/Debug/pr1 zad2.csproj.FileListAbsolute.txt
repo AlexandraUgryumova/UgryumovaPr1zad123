@@ -1,0 +1,21 @@
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr1 zad2\bin\Debug\pr1 zad2.exe.config
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr1 zad2\bin\Debug\pr1 zad2.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr1 zad2\bin\Debug\pr1 zad2.pdb
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr1 zad2\obj\Debug\pr1 zad2.csproj.AssemblyReference.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr1 zad2\obj\Debug\pr1_zad2.Form1.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr1 zad2\obj\Debug\pr1_zad2.Properties.Resources.resources
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr1 zad2\obj\Debug\pr1 zad2.csproj.GenerateResource.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr1 zad2\obj\Debug\pr1 zad2.csproj.CoreCompileInputs.cache
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr1 zad2\obj\Debug\pr1 zad2.exe
+C:\Users\305-12\Desktop\Угрюмова Пр-21\учебная практика\pr1 zad2\obj\Debug\pr1 zad2.pdb
+C:\Users\alexa\Desktop\саша\программы\c#\учебная практика 1 задание 1, 2, 3\pr1 zad2\bin\Debug\pr1 zad2.exe.config
+C:\Users\alexa\Desktop\саша\программы\c#\учебная практика 1 задание 1, 2, 3\pr1 zad2\bin\Debug\pr1 zad2.exe
+C:\Users\alexa\Desktop\саша\программы\c#\учебная практика 1 задание 1, 2, 3\pr1 zad2\bin\Debug\pr1 zad2.pdb
+C:\Users\alexa\Desktop\саша\программы\c#\учебная практика 1 задание 1, 2, 3\pr1 zad2\obj\Debug\pr1 zad2.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\саша\программы\c#\учебная практика 1 задание 1, 2, 3\pr1 zad2\obj\Debug\pr1 zad2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Desktop\саша\программы\c#\учебная практика 1 задание 1, 2, 3\pr1 zad2\obj\Debug\pr1_zad2.Form1.resources
+C:\Users\alexa\Desktop\саша\программы\c#\учебная практика 1 задание 1, 2, 3\pr1 zad2\obj\Debug\pr1_zad2.Properties.Resources.resources
+C:\Users\alexa\Desktop\саша\программы\c#\учебная практика 1 задание 1, 2, 3\pr1 zad2\obj\Debug\pr1 zad2.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\саша\программы\c#\учебная практика 1 задание 1, 2, 3\pr1 zad2\obj\Debug\pr1 zad2.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\саша\программы\c#\учебная практика 1 задание 1, 2, 3\pr1 zad2\obj\Debug\pr1 zad2.exe
+C:\Users\alexa\Desktop\саша\программы\c#\учебная практика 1 задание 1, 2, 3\pr1 zad2\obj\Debug\pr1 zad2.pdb
